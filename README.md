@@ -1,7 +1,11 @@
-# PAGINA INICIAL DO INSTAGRAM
+# Página Inicial Instagram
 
- Página criada com a semana do Evento Missão Programador do zero 2.5 com o Rodolfo Mori @Devclubi/Programação
+## Sobre o Projeto
 
- ## Página para Desktop
+ A página inicial do instagram é uma aplicação Front-end construídadurante o evento Missão Programador do zero 2.5, com aulas ministradas pelo Rodolfo Mori da DevClubi/Programação.
 
-![Nova imagem 600 pixel -PG Instagram](https://github.com/user-attachments/assets/cc38d332-731b-47a9-9899-6d4c4c13b33a)
+ A aplicação consiste no layout inicial da pagina oficial do instagram, sendo responsivo para desktop, tablet e mobile.
+
+ ## Layout Web
+
+![Captura de tela 2025-01-24 220951](https://github.com/user-attachments/assets/8cc2febc-1f36-400a-8df6-97d35b6c6aa0)
