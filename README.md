@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
- A página inicial do instagram é uma aplicação Front-end construídadurante o evento Missão Programador do zero 2.5, com aulas ministradas pelo Rodolfo Mori da DevClubi/Programação.
+ A página inicial do instagram é uma aplicação Front-end construída durante o evento Missão Programador do zero 2.5, com aulas ministradas pelo Rodolfo Mori da DevClubi/Programação.
 
  A aplicação consiste no layout inicial da pagina oficial do instagram, sendo responsivo para desktop, tablet e mobile.
 
