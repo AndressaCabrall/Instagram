@@ -15,9 +15,9 @@ O principal objetivo foi estudar e aprimorar habilidades nas tecnologias HTML, C
 
 ## 🛠️ Tecnologias Utilizadas
 
-*HTML: Estrutura da página.
-*CSS: Estilização do layout, responsividade e efeitos visuais.
-*JavaScript: Implementação de funcionalidades interativas.
+* HTML: Estrutura da página.
+* CSS: Estilização do layout, responsividade e efeitos visuais.
+* JavaScript: Implementação de funcionalidades interativas.
 
 ## 💡 Motivação
 Este projeto foi desenvolvido como parte dos meus estudos para consolidar conhecimentos nas linguagens front-end e aprender mais sobre responsividade.
