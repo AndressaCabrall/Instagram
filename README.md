@@ -1,11 +1,37 @@
-# Página Inicial Instagram
+# Página Inicial do Instagram
 
 ## Sobre o Projeto
 
- A página inicial do instagram é uma aplicação Front-end construída durante o evento Missão Programador do zero 2.5, com aulas ministradas pelo Rodolfo Mori da DevClubi/Programação.
+ Este projeto recria a página inicial do Instagram como parte do evento Missão Programador do Zero 2.5, organizado por Rodolfo Mori do DevClub.
 
- A aplicação consiste no layout inicial da pagina oficial do instagram, sendo responsivo para desktop, tablet e mobile.
+ ## 🎯 Objetivo
+O principal objetivo foi estudar e aprimorar habilidades nas tecnologias HTML, CSS e JavaScript, incluindo o desenvolvimento de uma página responsiva para diferentes dispositivos.
 
- ## Layout Web
+## 🚀 Funcionalidades
 
-![Captura de tela 2025-01-24 220951](https://github.com/user-attachments/assets/8cc2febc-1f36-400a-8df6-97d35b6c6aa0)
+* Recriação da página inicial do Instagram.
+* Layout responsivo para dispositivos móveis e desktops.
+* Prática do uso de CSS para estilização e JavaScript para interatividade.
+
+## 🛠️ Tecnologias Utilizadas
+
+*HTML: Estrutura da página.
+*CSS: Estilização do layout, responsividade e efeitos visuais.
+*JavaScript: Implementação de funcionalidades interativas.
+
+## 💡 Motivação
+Este projeto foi desenvolvido como parte dos meus estudos para consolidar conhecimentos nas linguagens front-end e aprender mais sobre responsividade.
+
+## 🌐 Demonstração
+Você pode acessar o projeto diretamente no link:
+GitHub Pages - Página Inicial do Instagram (substitua "#" pelo link do projeto)
+
+## 📸 Capturas de Tela
+Layout Web
+
+![Captura de tela 2025-01-26 192618](https://github.com/user-attachments/assets/e9e68026-7e23-47b1-a8ba-5619d4708997)
+
+## Layout Mobile
+
+## 🎥 Vídeo do Processo
+
